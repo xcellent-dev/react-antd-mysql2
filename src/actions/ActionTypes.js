@@ -1,0 +1,5 @@
+/* CARD */
+
+export const CARD_POST = "CARD_POST";
+export const CARD_POST_SUCCESS = "CARD_POST_SUCCESS";
+export const CARD_POST_FAILURE = "CARD_POST_FAILURE";
