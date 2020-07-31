@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "antd": "^2.10.0",
-    "axios": "^0.16.1",
+    "axios": "^0.19.2",
     "body-parser": "^1.17.1",
     "dotenv": "^4.0.0",
     "express": "^4.15.2",
